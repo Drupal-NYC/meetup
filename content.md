@@ -25,25 +25,15 @@ We hold a presentation-format meetup at 30 Rockefeller Plaza in the evening on t
 * Usually a couple short, high-level "lightning" talks followed by one or two longer, in-depth talks
 * The lightning talks are typically 10 mins long
 
-
-
 #### Attendee Check-in Process
 
-The following is the email sent out to attendees the day of the meetup, detailing the check-in process:
+* Check-in happens between 6-7:30pm. Attendees check-in at NBC Guest Reception \(see [check-in video](http://bit.ly/dnyccheckin) for location\)
+* Photo ID is necessary
+* The check-in process also involves the attendees photo being taken prior to being given a guest badge
+* After receiving the guest badge, attendees are escorted to the event by NBC Pages
+* Late check-in \(unescorted\) is possible after 7:30pm
 
-**Check-in instructions \(6:00-7:30pm\)**
-
-Check-in officially starts at 6:00pm and will end at 7:30pm. Please take a look at this [check-invideo](http://bit.ly/dnyccheckin) for location of NBC Guest Reception.
-
-Enter at the 50th street \(between 5th and 6th Avenues\) entrance under the neon sign that says Rainbow Room/Observatory Deck. Then turn right & down the corridor on your left look for "NBC Guest Reception". You must bring your photo ID. Your photo will be taken by building security. You must be okay with this to attend.
-
-Here is a map of where to enter Rockefeller Center to get to the Rainbow Observation Deck Entrance, [https://goo.gl/maps/8VHisG5Pej82](https://goo.gl/maps/8VHisG5Pej82).
-
-After getting a name badge using the instructions above, you’ll then be escorted to the event in11A by the infamous [NBC Page Program](https://en.wikipedia.org/wiki/Kenneth_Parcell).
-
-Late check-in instructions \(7:30-8:30pm\)
-
-If you arrive later than 7:30, there will be no page escorts but you can still follow the check-in instructions above and security will tell you how to get to 11A.
+More detailed check-in instructions can be found on the check-in attendee message template.
 
 ### How speakers are selected and coordinated
 
@@ -54,7 +44,7 @@ If you arrive later than 7:30, there will be no page escorts but you can still f
 
 ### Recording the Meetup
 
-_...steps needed here @\_@ there's some kind of mystery computer with password running some kind of mystery program..._
+_...steps needed here @\_@ there's some kind of mystery computer with password running some kind of mystery program...\_
 
 #### Uploading the Recorded Video
 
