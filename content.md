@@ -42,7 +42,7 @@ More detailed check-in instructions can be found on the [check-in attendee messa
 * Speaker selection is made by the organizing team on Slack
 * Presentation titles, description, and speaker bios are received from speakers, coordinated via a Google Doc and entered into the Meetup.com event description
 
-### Recording the Meetup
+### Recording the Meetup <a id="recording"></a>
 
 _...steps needed here @\_@ there's some kind of mystery computer with password running some kind of mystery program...\_
 
