@@ -44,6 +44,7 @@ The Drupal meetup is this Wednesday night, 6pm at Rockefeller Center, 11th Floor
 **Your slides**
 * We have HDMI and mini displayport connections
 * Projector is 1080p output
+* Please have a printout of your speaker notes, as presenter's mode may not be available from our displays.
 
 **Checkin**
 
