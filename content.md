@@ -33,7 +33,7 @@ We hold a presentation-format meetup at 30 Rockefeller Plaza in the evening on t
 * After receiving the guest badge, attendees are escorted to the event by NBC Pages
 * Late check-in \(unescorted\) is possible after 7:30pm
 
-More detailed check-in instructions can be found on the check-in attendee message template.
+More detailed check-in instructions can be found on the [check-in attendee message template](../meetup/content/attendee-communication-templates.md#check-in-instructions).
 
 ### How speakers are selected and coordinated
 

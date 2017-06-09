@@ -14,7 +14,8 @@ This document provides attendee communication templates that can be used for rec
 * Confirmation of speaking & request for materials
 * On the Monday before the meetup
 
-### Attendee Check-in Instructions for 30 Rock monthly meetup
+
+### Attendee Check-in Instructions for 30 Rock monthly meetup <a id="check-in-instructions"></a>
 
 _The following is the email sent out via meetup attendee messaging to attendees, detailing the check-in process. This email is sent by noon on the day of the meetup:_
 
