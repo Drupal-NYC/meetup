@@ -26,7 +26,7 @@ More detailed check-in instructions can be found on the [check-in attendee messa
 ## How speakers are selected and coordinated
 
 * Presentation submissions are made in person at meetups, via Google Form, or email
-* Speaker and presentation topics are coordinated via a Google Spreadsheet
+* Speaker and presentation topics are coordinated via a Google Spreadsheet titled **"DrupalNYC meetup speakers"** (pinned in the #organizering channel in Slack). Once you have a potential speaker, please enter the information into this spreadsheet.
 * Speaker selection is made by the organizing team on Slack
 * Presentation titles, description, and speaker bios are received from speakers, coordinated via a Google Doc and entered into the Meetup.com event description
 
