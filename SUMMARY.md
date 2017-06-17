@@ -1,7 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-* [Content](content.md)
+* [Meetup Information](content.md)
+* [Presentations at 30 Rock](presentations-at-30-rock.md)
+* [Drupal Playday](drupal-playday.md)
 * [Speaker Outreach](speaker-outreach.md)
 * [Attendee Communication Templates](attendee-communication-templates.md)
 
