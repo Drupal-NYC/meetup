@@ -31,11 +31,14 @@ Please let me know your interest, thanks!
 
 Excellent, thanks so much for being interested in presenting to our group!
 
-Just a couple things I need from you first, will you please send me a title to list for your talk as well as a single paragraph description of what you'll talk abotut and a single paragraph bio about yourself? We'll list this details on our meetup.com page and in an upcoming email to our members. Feel free to include any contact information too.
+Just a couple things I need from you first, will you please send me a title to list for your talk as well as a single paragraph description of what you'll talk about and a single paragraph bio about yourself? We'll list this details on our meetup.com page and in an upcoming email to our members. Feel free to include any contact information too.
 
-And lastly, please join our meetup group and RSVP for the event http://www.meetup.com/drupalnyc/ because building security requires attendee names for acess.
+And lastly, please join our meetup group and RSVP for the event http://www.meetup.com/drupalnyc/, because building security requires attendee names for access.
 
 Thanks, and let me know any questions!
+
+---
+**After you get the description, please add this information to the DrupalNYC meetup speakers gdoc (pinned in the #organizing channel)**
 
 ### On the Monday before the meetup
 ---
