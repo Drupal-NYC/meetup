@@ -38,7 +38,7 @@ And lastly, please join our meetup group and RSVP for the event http://www.meetu
 Thanks, and let me know any questions!
 
 ---
-**After you get the description, please add this information to the DrupalNYC meetup speakers gdoc (pinned in the #organizing channel)**
+**After you receive this, please add this information to the DrupalNYC meetup speakers gdoc (pinned in the #organizing channel)**
 
 ### On the Monday before the meetup
 ---
