@@ -1,5 +1,8 @@
 # Social media and e-mail outreach
 
+## Drupal Groups
+* Don't forget to cross post to [NYC on Drupal Groups](http://groups.drupal.org/nyc) with Meetup link! There's a different audience on the group and we have quite a bit of attendence from doing outreach on Drupal Groups.
+
 ## Twitter
 * Hash tag '#DrupalNYC' is used during our monthly meetups and other events. Please post pictures!
 
@@ -8,6 +11,12 @@
 *When*: Wednesday, October 4th, 6-9pm  
 *Where*: 30 Rock  
 *RSVP*: [Link to specific Meetup](http://www.meetup.com/drupalnyc)
+
+### E-mail Body
+The e-mail body can be any of the following:
+* Talk description provided by speakers for promotions
+* Monthly friendly reminders of our calendar
+* Call for talks
 
 ### Generic Footer
 ===  
