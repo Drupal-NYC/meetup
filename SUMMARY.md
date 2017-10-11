@@ -8,4 +8,5 @@
 * [Speaker Outreach Templates](speaker-outreach.md)
 * [Attendee Communication Templates](attendee-communication-templates.md)
 * [Our group on Meetup.com](our-group-on-meetupcom.md)
+* [Social media and e-mail outreach](social-and-email.md)
 
