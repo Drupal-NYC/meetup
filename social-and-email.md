@@ -26,4 +26,4 @@ Watch past meetup recordings at: [drupal.nyc/videos](http://drupal.nyc/videos)
 
 We are looking for speakers! We are interested in your approach in solving real world Drupal problems, or any new technical implementations that should be used to make Drupal run faster! Interested in giving a talk? Have a talk you'd like to see? Please go to [drupal.nyc/suggest](http://drupal.nyc/suggest) and put down your thoughts!
 
-[Drupal NYC](http://drupal.nyc) || [Meetup](http://www.meetup.com/drupalnyc) || [Twitter](http://twitter.com/drupalnyc)
+[Drupal NYC](http://drupal.nyc) || [Meetup](http://www.meetup.com/drupalnyc) || [Twitter](http://twitter.com/drupalnyc) || [YouTube](https://www.youtube.com/channel/UCyXGhRPes-v8K7wrzG7Uwxw)
