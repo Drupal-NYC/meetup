@@ -8,9 +8,9 @@
 
 ## E-mail
 ### Generic Header
-*When*: Wednesday, October 4th, 6-9pm  
+*When*: (Example: Wednesday, October 4th, 6-9pm)  
 *Where*: 30 Rock  
-*RSVP*: [Link to specific Meetup](http://www.meetup.com/drupalnyc)
+*RSVP*: (Example: [Link to specific Meetup](http://www.meetup.com/drupalnyc))
 
 ### E-mail Body
 The e-mail body can be any of the following:
